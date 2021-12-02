@@ -1,0 +1,42 @@
+/*16px=1rem*/
+
+.hairline-base{
+    background-color: #fff; height: 90px; display: flex; align-items:center; border-top: 1px solid #e6e6e6;
+    padding-left: 20px; padding-right: 25px;
+}
+.hairline-title{
+    width:100%; display: flex; align-items: center;
+}
+.icon{
+    width:40px; height: 40px; padding:10px;
+}
+.icon-big{
+    width:80px; height: 80px; padding:10px;
+}
+
+/*form*/
+.form{ display: flex}
+.form span{
+    width:160px; margin-left: 10px;
+}
+.form text{
+    width:160px; margin-left: 10px;
+}
+.form input{
+    flex:1;
+}
+
+/*order list*/
+.hairline-order{
+    justify-content: space-between;
+}
+.hairline-order-detail{
+    justify-content: space-between; border: 0px; height: 50px;
+    font-size: 24px;
+}
+.hairline-order-detail-item{
+    color:#3d3d3d;
+}
+.hairline-order-detail-item:nth-child(2){
+    font-weight: 600;
+}

@@ -1,0 +1,230 @@
+/* 色彩系列设置  begin*/
+
+/*文字颜色*/
+
+/*柔和的链接*/
+.text-muted {color:#6c757d !important}
+/*主要链接*/
+.text-primary {color:#007bff !important}
+/*成功链接*/
+.text-success {color:#28a745 !important}
+/*信息文本链接*/
+.text-info {color:#17a2b8 !important}
+.text-info2 {color:#2AA2FF !important;}
+/*警告链接*/
+.text-warning {color:#ffc107 !important}
+/*危险链接*/
+.text-danger {color:#dc3545 !important}
+.text-danger2 {color:#e64340 !important}
+
+/*副标题链接*/
+.text-secondary {color:#6c757d !important}
+/*深灰色链接*/
+.text-dark {color:#343a40 !important}
+/*浅灰色链接*/
+.text-light {color:#f8f9fa !important}
+
+/*背景色*/
+
+/*纯白*/
+.bg-white {background-color:white !important}
+/*柔和的链接*/
+.bg-muted {background-color:#6c757d !important}
+/*主要链接*/
+.bg-primary {background-color:#007bff !important; color: #fff !important;}
+/*成功链接*/
+.bg-success {background-color:#28a745 !important; color: #fff !important;}
+/*信息文本链接*/
+.bg-info {background-color:#17a2b8 !important; color: #fff !important;}
+.bg-info2 {background-color:#2AA2FF !important; color: #fff !important;}
+.bg-default {background-color:#fff !important; color: black !important;}
+/*警告链接*/
+.bg-warning {background-color:#ffc107 !important}
+/*危险链接*/
+.bg-danger {background-color:#dc3545 !important; color: #fff !important;}
+.bg-danger2 {background-color:#e64340 !important; color: #fff !important;}
+
+/*副标题链接*/
+.bg-secondary {background-color:#6c757d !important}
+/*深灰色链接*/
+.bg-dark {background-color:#343a40 !important; color: #fff !important;}
+/*浅灰色链接*/
+.bg-light {background-color:#f8f9fa !important}
+
+/* 色彩系列设置  end*/
+
+/*常用宽高 begin*/
+.width10{width: 10% !important;}
+.width20{width: 20% !important;}
+.width30{width: 30% !important;}
+.width40{width: 40% !important;}
+.width50{width: 50% !important;}
+.width60{width: 60% !important;}
+.width70{width: 70% !important;}
+.width80{width: 80% !important;}
+.width90{width: 90% !important;}
+.width100{width: 100% !important;}
+
+.height10{height: 10% !important;}
+.height20{height: 20% !important;}
+.height30{height: 30% !important;}
+.height40{height: 40% !important;}
+.height50{height: 50% !important;}
+.height60{height: 60% !important;}
+.height70{height: 70% !important;}
+.height80{height: 80% !important;}
+.height90{height: 90% !important;}
+.height100{height: 100% !important;}
+/*常用宽 end*/
+
+/*常用margin begin*/
+.mt10{margin-top: 10px !important;}
+.mt20{margin-top: 20px !important;}
+.mt30{margin-top: 30px !important;}
+.mt40{margin-top: 40px !important;}
+.mt50{margin-top: 50px !important;}
+.mt60{margin-top: 60px !important;}
+.mt70{margin-top: 70px !important;}
+.mt80{margin-top: 80px !important;}
+.mt90{margin-top: 90px !important;}
+.mt100{margin-top: 100px !important;}
+
+.mb10{margin-bottom: 10px !important;}
+.mb20{margin-bottom: 20px !important;}
+.mb30{margin-bottom: 30px !important;}
+.mb40{margin-bottom: 40px !important;}
+.mb50{margin-bottom: 50px !important;}
+.mb60{margin-bottom: 60px !important;}
+.mb70{margin-bottom: 70px !important;}
+.mb80{margin-bottom: 80px !important;}
+.mb90{margin-bottom: 90px !important;}
+.mb100{margin-bottom: 100px !important;}
+
+.ml10{margin-left: 10px !important;}
+.ml20{margin-left: 20px !important;}
+.ml30{margin-left: 30px !important;}
+.ml40{margin-left: 40px !important;}
+.ml50{margin-left: 50px !important;}
+.ml60{margin-left: 60px !important;}
+.ml70{margin-left: 70px !important;}
+.ml80{margin-left: 80px !important;}
+.ml90{margin-left: 90px !important;}
+.ml100{margin-left: 100px !important;}
+
+.mr10{margin-right: 10px !important;}
+.mr20{margin-right: 20px !important;}
+.mr30{margin-right: 30px !important;}
+.mr40{margin-right: 40px !important;}
+.mr50{margin-right: 50px !important;}
+.mr60{margin-right: 60px !important;}
+.mr70{margin-right: 70px !important;}
+.mr80{margin-right: 80px !important;}
+.mr90{margin-right: 90px !important;}
+.mr100{margin-right: 100px !important;}
+
+/*常用margin end*/
+
+/*常用padding begin*/
+.pt10{padding-top: 10px !important;}
+.pt20{padding-top: 20px !important;}
+.pt30{padding-top: 30px !important;}
+.pt40{padding-top: 40px !important;}
+.pt50{padding-top: 50px !important;}
+.pt60{padding-top: 60px !important;}
+.pt70{padding-top: 70px !important;}
+.pt80{padding-top: 80px !important;}
+.pt90{padding-top: 90px !important;}
+.pt100{padding-top: 100px !important;}
+
+.pb10{padding-bottom: 10px !important;}
+.pb20{padding-bottom: 20px !important;}
+.pb30{padding-bottom: 30px !important;}
+.pb40{padding-bottom: 40px !important;}
+.pb50{padding-bottom: 50px !important;}
+.pb60{padding-bottom: 60px !important;}
+.pb70{padding-bottom: 70px !important;}
+.pb80{padding-bottom: 80px !important;}
+.pb90{padding-bottom: 90px !important;}
+.pb100{padding-bottom: 100px !important;}
+
+.pl10{padding-left: 10px !important;}
+.pl20{padding-left: 20px !important;}
+.pl30{padding-left: 30px !important;}
+.pl40{padding-left: 40px !important;}
+.pl50{padding-left: 50px !important;}
+.pl60{padding-left: 60px !important;}
+.pl70{padding-left: 70px !important;}
+.pl80{padding-left: 80px !important;}
+.pl90{padding-left: 90px !important;}
+.pl100{padding-left: 100px !important;}
+
+.pr10{padding-right: 10px !important;}
+.pr20{padding-right: 20px !important;}
+.pr30{padding-right: 30px !important;}
+.pr40{padding-right: 40px !important;}
+.pr50{padding-right: 50px !important;}
+.pr60{padding-right: 60px !important;}
+.pr70{padding-right: 70px !important;}
+.pr80{padding-right: 80px !important;}
+.pr90{padding-right: 90px !important;}
+.pr100{padding-right: 100px !important;}
+
+/*常用padding end*/
+
+/*常用font-size begin*/
+.fs20{font-size: 20px!important}
+.fs24{font-size: 24px!important}
+.fs28{font-size: 28px!important}
+.fs30{font-size: 30px!important}
+.fs32{font-size: 32px!important}
+.fs40{font-size: 40px!important}
+.fs50{font-size: 50px!important}
+.fs56{font-size: 56px!important}
+.fs60{font-size: 60px!important}
+.fs70{font-size: 70px!important}
+.fs80{font-size: 80px!important}
+.fs84{font-size: 84px!important}
+.fs90{font-size: 90px!important}
+.fs100{font-size: 100px!important}
+.fs112{font-size: 112px!important}
+/*常用font-size end*/
+
+/*常用font-weight begin*/
+.fw500{font-weight: 500!important}
+.fw550{font-weight: 550!important}
+.fw600{font-weight: 600!important}
+.fw650{font-weight: 650!important}
+.fw700{font-weight: 700!important}
+.fw800{font-weight: 800!important}
+.fw900{font-weight: 900!important}
+/*常用font-weight end*/
+
+/*选中或未选中*/
+.gou{
+    width:40px; height:40px; margin:20px;
+}
+
+/*flex*/
+.flex-row{
+    display: flex;
+}
+.flex-col{
+    display: flex; flex-direction: column;
+}
+.flex-row-center{
+    display: flex; justify-content: center;
+}
+.flex-col-center{
+    display: flex; flex-direction: column; align-items:center;
+}
+.flex-center{
+    display: flex; justify-content: center; align-items: center;
+}
+.flex-row-align-center{
+    display: flex; align-items: center;
+}
+
+/*边框阴影*/
+.box-yinying{
+    border-radius: 10px!important; border-bottom:2px solid rgba(0, 0, 0, .1); box-sizing: border-box;
+}
